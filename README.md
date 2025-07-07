@@ -7,8 +7,8 @@
 
 ---
 
-- 💬 Ask me about **Java, Spring Boot, React.js, Python, and Machine Learning**
-- 🌱 I’m currently learning **Cloud & DevOps**
+- 💬 Ask me about **Java, Spring Boot, JavaScript, React.js,SQL/MYSQL , HTML, CSS, Python, Machine Learning/Deep learning**
+- 🌱 I’m currently Working As a software developer Intern At**Target**
 - 📫 Reach me at **ramprasadmundel8696@gmail.com**
 
 ---
